@@ -1,4 +1,6 @@
 # ds-demo-heroku
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/deepstreamIO/ds-demo-heroku.svg)](https://greenkeeper.io/)
 Deploy a deepstream.io server on heroku.
 
 This repo was created in combination with a tutorial. You can find the tutorial below. 
