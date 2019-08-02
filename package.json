@@ -6,6 +6,9 @@
   "scripts": {
     "start": "PORT=${PORT:-6020} deepstream start"
   },
+  "engines": {
+    "node": "10.16.0"
+  }
   "author": "Anton Wilhelm",
   "license": "ISC",
   "dependencies": {
